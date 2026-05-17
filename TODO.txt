@@ -1,0 +1,19 @@
+1) drop the Form from meal view, update so can still use .onAppear but can now layout how I like
+2) change mealView to have edit and non edit mode
+3) fix bug where saving always adds a new meal
+
+
+4) meal view: have name at top, then picture, with ingredients and recipe underneath.
+
+
+meal AI component to take free text to searach meals : new field "description:
+
+sweet, savoury
+comlexity: easy, medium, hard
+speed: quick, long
+star rating: 1 - 5
+protein:
+season/weather:
+meal: [breakfast, lunch, dinner, snack, dessert, ?brunch, linner, midnight glory] can me more than one (so probably array), ?would hangover food go here cuisine: [Italian, mex...]
+quirk: hangover, girlsnight, boys n beers, fancy, meet the in laws
+hashtag:
